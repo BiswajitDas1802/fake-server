@@ -7,6 +7,29 @@
       }
     ],
     "employee":[
-      
+      {
+        "name": "dani",
+        "dep": "IT",
+        "gen": "male",
+        "role": "jsjj",
+        "salary": "22222",
+        "id": 2
+      },
+      {
+        "name": "kanhayia",
+        "dep": "IT",
+        "gen": "male",
+        "role": "sde1",
+        "salary": "3000000",
+        "id": 3
+      },
+      {
+        "name": "kanhayia",
+        "dep": "FINANCE",
+        "gen": "male",
+        "role": "SJSJ",
+        "salary": "3000000",
+        "id": 4
+      }
     ]
 }
