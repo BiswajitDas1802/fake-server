@@ -7,6 +7,9 @@
       }
     ],
     "employee":[
+     
+    ],
+    "employeedetails":[
       {
         "name": "dani",
         "dep": "IT",
@@ -31,8 +34,5 @@
         "salary": "3000000",
         "id": 4
       }
-    ],
-    "employeedetails":[
-      
     ]
 }
